@@ -6,7 +6,7 @@ import java.sql.SQLException;
 import java.sql.Statement;
 
 /*
-    account表 添加一条记录 insert 语句
+  account表 添加一条记录 insert 语句
  */
 public class JDBCDemo02 {
     public static void main(String[] args) {
