@@ -1,5 +1,7 @@
+package sql;
+
 import java.sql.*;
-public class example1 {
+public class JDBC {
     //MySQL 8.0 以下版本 - JDBC 驱动名及数据库 URL
     //数据库：message  Host Address：localhost  端口：3306
     //请根据实际数据库的信息进行修改
