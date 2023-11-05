@@ -4,6 +4,7 @@ import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.SQLException;
 
+// TODO 连接数据库
 public class Conn { // 创建类Conn
     Connection con; // 声明Connection对象
     public static String user;
